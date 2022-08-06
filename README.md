@@ -1,5 +1,5 @@
 # Internet-Speed-Meter-1.0
-Internet uploading and downloading live bandwidth monitor for windows machine with indicator green indicator is for (internet connected) and red indicator is for (no internet connected).
+Internet uploading and downloading live bandwidth monitor for windows machine with indicator, green indicator is for (internet connected) and red indicator is for (no internet connected).
 
 requirement - Python 3, urllib.request, psutil, PyQt5
 
